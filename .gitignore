@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Database and backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.backup
+*.save
+
+# Logs
+*.log
+
+# Local backup files
+*Backup*/
+*backup*/
+
+# macOS
+.DS_Store
+
+# Obsolete launcher
+start_backend.command
